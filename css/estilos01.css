@@ -1,0 +1,202 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/*////////////////////////////////////////////*/
+
+/*////////////////--HEADER--/////////////////*/
+
+header {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #00C8A4;
+    max-width: 360px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+.textoheadder{
+    text-decoration: none;
+    color: black;
+    font-size: 0.8cm;
+}
+
+/*/////////////////////////////////////////*/
+
+/*////////////////--BODY--/////////////////*/
+
+body{
+    height: fit-content;
+    justify-self: center;
+    margin: 0%;
+    padding: 0%;
+    max-width: 360px;
+    max-width: 100vh;
+}
+
+.container {
+    align-items: center;
+    background-color: #000000;
+    max-width: 360px;
+    height: 140Vh;
+}
+
+.fondooscuro {
+    background-color: #036855;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    max-width: 360px;
+    height: 80px;
+}
+
+.fondooscuro2{
+    background-color: #036855;
+    text-align: center;
+    margin: none;   
+    max-width: 360px;
+    height: 60px;
+}
+
+/*///////////SEPARADORES///////////*/
+
+.separador{
+    max-width: 360px;
+    padding: 0px;
+    margin: 0px;
+    height: 2px;
+    border: none;
+    background-color: black;
+}
+
+.separador2{
+    padding: 0px;
+    margin: 0px;
+    height: 3px;
+    border: none;
+    background-color: black;
+}
+
+.separador3{
+    padding: 0px;
+    margin: 0px;
+    height: 1px;
+    border: none;
+    background-color: black;
+}
+
+
+
+
+
+.oferta2 {
+    border: none;
+    background-color: transparent;
+    padding: 5px;
+    height: 65px;
+    font-size: 0.25cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFD600;
+
+}
+
+.textooferta{
+    font-size: 0.30cm;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFD600;
+    padding: 100px;
+    margin: 25px;
+    padding: 10px;
+}
+
+.img1{
+    max-width: 360px;
+    filter: brightness(50%);
+}
+
+
+.espacioBoton1{
+    margin-top: 90px;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 18vh;
+    height: 20vh;
+    
+}
+
+.espacioBoton2{
+    margin-top: 110px;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50vh;
+    height: 20vh;
+}
+
+.espacioBoton3{
+    margin-top: 140px;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 42vh;
+    height: 20vh;
+}
+
+/*TEXTO DEL BOTÓN EN ACCESORIOS PARA COCHE*/
+.textoimg1{
+    padding: 10px;
+    font-size: 0.4cm;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seri;
+    position: absolute;
+    text-decoration: none;
+    border: 1px solid #00C8A4;
+    color: #FFD600;
+    }
+
+/*////////////////////////////////////////////*/
+
+/*////////////////--FOOTER--/////////////////*/
+
+
+
+footer{
+    background-color: #00C8A4;
+    width: 100vh;
+    max-width: 360px;
+}   
+
+
+
+
+/*redes*/
+
+.instagramtexto{
+    color: white;
+    text-decoration: none   ;
+}
+
+.textointroredes{
+    font-size: 0.4cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 25px;
+    max-width: 360px;
+    height: auto;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.wippshopp{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #00C8A4;
+    text-align: center;
+}
+
+.logoamano{
+    padding: 3px;
+    margin-bottom: 10px;
+    
+}

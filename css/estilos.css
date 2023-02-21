@@ -1,0 +1,87 @@
+
+
+html{
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        margin: 0%;
+        padding: 0%;
+    max-width: 360px;
+    max-height: 667px;
+}
+
+.container {
+    /* background-image: url('../img/fondoBuenoMovil.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+    height: 100vh;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+}
+
+
+
+img {
+    height: 100vh;
+}
+
+
+.logo1 {
+    width: fit-content;
+    height: 100px;
+    text-align: center;
+    background-color: blue;
+}
+
+.logoamano {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    padding-bottom: 20%;
+}
+
+.logoamano2{
+    font-size: 0.6cm;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seri;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    padding-bottom: 5%;
+}
+
+
+
+
+.linkk1{
+    padding: 10px;
+    font-size: 0.5cm;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seri;
+    position: absolute;
+    text-decoration: none;
+    border: 2px solid #000;
+    color: black;
+}
+
+
+.button-container{
+    display:inline-block;
+    position:relative;
+    width: 100px;
+    height: 100px;
+    
+    }
+    
+    .button-container a{
+    border: 1px dashed black ;
+    padding: 10px;
+    text-decoration: none;
+    background-color:transparent;
+    color:rgb(0, 0, 0);
+    text-transform:uppercase;
+    }
